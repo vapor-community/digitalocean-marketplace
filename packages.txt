@@ -1,0 +1,1 @@
+clang libicu-dev libatomic1 build-essential pkg-config openssl libssl-dev zlib1g-dev libsqlite3-dev

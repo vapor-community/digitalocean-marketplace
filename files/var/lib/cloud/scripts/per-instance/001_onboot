@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Protect the droplet
+ufw limit ssh
+ufw allow https
+ufw allow http
+ufw --force enable
